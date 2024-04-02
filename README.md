@@ -1,7 +1,7 @@
 Hi! My name is Ayoub Chalabi 🦁
 ========================================================================================================================================
 
-🌍  I am a Front-End Developer based in Batna, Algeria.
+🌍  I am a Front-End Developer based in Algeria.
 <br/>
 
 ### Skills
