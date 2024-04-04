@@ -13,7 +13,7 @@ Hi! My name is Ayoub Chalabi 🦁
 ### Socials
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/ayoub-chalabi-6b7712249/">
+  <a href="www.linkedin.com/in/iayvob">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
