@@ -3,6 +3,8 @@ Hi! My name is Ayoub Chalabi 🦁
 
 🌍  I am a Front-End Developer based in Algeria.
 <br/>
+😎  New projects comming soon ....
+<br />
 <p>Check my portfolio  <a href="https://iayvob.vercel.app/">Demo now 🔴</a></p>
 
 ### Skills
