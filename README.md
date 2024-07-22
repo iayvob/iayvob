@@ -19,6 +19,6 @@ Hi! My name is Ayoub Chalabi 🦁
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.x.com/iayvob">
-    <img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter Badge"/>
+    <img src=https://img.shields.io/twitter/follow/iayvob" alt="twitter Badge"/>
   </a>
 </div>
