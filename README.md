@@ -21,4 +21,5 @@ Hi! My name is Ayoub Chalabi 🦁
   <a href="https://www.x.com/iayvob">
     <img src=https://img.shields.io/twitter/follow/iayvob" alt="twitter Badge"/>
   </a>
+  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X313JMX1)
 </div>
