@@ -17,7 +17,7 @@ Hi! My name is Ayoub Chalabi 🦁
 [![](https://visitcount.itsvg.in/api?id=iayvob&icon=5&color=6)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X313JMX1)
+  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X313JMX1)
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
