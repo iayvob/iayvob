@@ -39,10 +39,6 @@ Helping early-stage startups and founders **turn their ideas into working produc
 ---
 [![](https://visitcount.itsvg.in/api?id=iayvob&icon=5&color=6)](https://visitcount.itsvg.in)
 
-
-  ## 💰 You can help me by Donating
-  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X313JMX1)
-
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
