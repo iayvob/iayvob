@@ -6,26 +6,20 @@ Turning ideas into functional, launch-ready products fast.
 
 ---
 
-## 💻 Tech Stack
-- **Frontend:** Next.js, React, HTML, CSS, JavaScript  
-- **Backend:** Django, Express.js, APIs  
-- **Database:** PostgreSQL  
-- **Tools & Platforms:** Git, GitHub, VS Code  
-
----
-
 ## 🎯 Specialties
-- Shipping MVPs for SaaS & startup projects  
-- High-quality, production-ready websites  
-- End-to-end product development: concept → prototype → launch  
-- Functional backends & API integrations  
+- Shipping **functional, launch-ready products** for startups and businesses  
+- Mobile apps and websites with **full backend integration**  
+- CI/CD setup and deployment on **AWS / Azure / Google Cloud**  
+- Rapid MVP development for SaaS, e-commerce, and tech startups  
 
 ---
 
 ## 🌍 Experience
 - Co-founder at [LearnerWithHim.com](#)  
-- Delivered projects for international clients (Sweden, Nigeria, remote startups)  
-- Built strong portfolios, websites, and social proof (LinkedIn 4,000+ followers, active X presence)  
+- Built projects for **Iayvob.info** — websites & applications  
+- Delivered solutions for **Pear Softwares**, **Ayrime**, **Learnrithm**, and **AppToMatch**  
+- International client experience (Sweden, Nigeria, United Kingdom, United States and remote startups)  
+- Social proof: LinkedIn 4,000+ followers, X 206+ followers, **Reddit active contributor**  
 
 ---
 
