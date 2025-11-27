@@ -15,7 +15,7 @@ Turning ideas into functional, launch-ready products fast.
 ---
 
 ## 🌍 Experience
-- Co-founder at [LearnerWithHim.com](#)  
+- Co-founder at [Learnrithm.com](#)  
 - Built projects for **Iayvob.info** — websites & applications  
 - Delivered solutions for **Pear Softwares**, **Ayrime**, **Learnrithm**, and **AppToMatch**  
 - International client experience (Sweden, Nigeria, United Kingdom, United States and remote startups)  
