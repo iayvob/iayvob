@@ -17,8 +17,8 @@ Turning ideas into functional, launch-ready products fast.
 ## 🌍 Experience
 - Co-founder at [Learnrithm.com](#)  
 - Built projects for **Iayvob.info** — websites & applications  
-- Delivered solutions for **Pear Softwares**, **Ayrime**, **Learnrithm**, and **AppToMatch**  
-- International client experience (Sweden, Nigeria, United Kingdom, United States and remote startups)  
+- Delivered solutions for **Pear Softwares**, **Learnrithm**, **AppToMatch**, **Ayrab**, and **SENSIUM-X**
+- International client experience (Sweden, Algeria, Nigeria, United Kingdom, United States and remote startups)  
 - Social proof: LinkedIn 4,000+ followers, X 206+ followers, **Reddit active contributor**  
 
 ---
